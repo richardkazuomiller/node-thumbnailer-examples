@@ -1,0 +1,14 @@
+{
+  "name": "node-thumbnailer-examples",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index"
+  },
+  "author": "Richard Kazuo Miller",
+  "license": "MIT",
+  "dependencies" : {
+    "node-thumbnailer" : "0.0.2"
+  }
+}
